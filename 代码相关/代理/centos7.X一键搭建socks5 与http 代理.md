@@ -1,11 +1,13 @@
+```shell
+sudo wget https://ap-guangzhou-1257892306.cos.ap-guangzhou.myqcloud.com/asi/httpsocks5.sh && sh httpsocks5.sh
 ```
-sudo wget https://ap-guangzhou-1257892306.cos.ap`guangzhou.myqcloud.com/asi/httpsocks5.sh && sh httpsocks5.sh
-```
-
+[Lozy/danted：用于安装和配置Danted的快速脚本--Socks5代理服务器。 (github.com)](https://github.com/Lozy/danted)
 sosks5 端口为59395 帐号为 ntkj 密码为 nantian888
 
 http代理端口为 59394
 
+firewall-cmd --permanent --add-port=59394/tcp
+firewall-cmd --reload
 需要修改帐号密码的可以自己修改一下～  
 可能的坑  
 1.centos 8 可能不行～～～  
