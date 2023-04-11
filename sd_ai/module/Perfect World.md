@@ -1,0 +1,6 @@
+module
+
+ultra realistic 8k cg, picture-perfect face, flawless, clean, masterpiece, professional artwork, famous artwork, cinematic lighting, cinematic bloom, perfect face, beautiful face, beautiful eyes, ((perfect female body, narrow waist)), black hair, gorgeous queen, royal, divine, goddess, godlike, (royal palace), fantasy, dreamlike, unreal, science fiction, huge breasts, beautiful clothes, lace, lace trim, lace-trimmed legwear, nsfw, breasts out, absurdly long hair, very long hair, (rich:1.4), prestige, luxury, jewelry, diamond, gold, pearl, gem, sapphire, ruby, emerald, intricate detail, delicate pattern, sexy, charming, alluring, seductive, erotic, enchanting, hair ornament, necklace, earrings, bracelet, armlet,
+Negative prompt: (worst quality, low quality:1.3), simple background, logo, watermark, text
+Size: 512x768, Seed: 3157911442, Model: Baked_GF2+BM+AOM3_20-30-50, Steps: 80, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: 79e42fb744, Hires upscale: 2, Hires upscaler: Latent (bicubic antialiased), Denoising strength: 0.5
+![[Pasted image 20230410133316.png]]

@@ -1,0 +1,7 @@
+module
+
+rear angle, Highly detailed RAW color Photo, Rear Angle, Full Body, of (female space soldier, wearing orange and white space suit, helmet, tined face shield, rebreather, accentuated booty), outdoors, (looking up at advanced alien structure, on alien planet), toned body, big butt, (sci-fi), (mountains:1.1), (lush green vegetation), (two moons in sky:0.8), (highly detailed, hyperdetailed, intricate), ((DAY TIME)), (lens flare:0.7), (bloom:0.7), particle effects, raytracing, cinematic lighting, shallow depth of field, photographed on a Sony a9 II, 50mm wide angle lens, sharp focus, cinematic film still from Gravity 2013, from behind
+Negative prompt: ((NIGHT TIME)), child, childlike, (monochrome:1.3), (oversaturated:1.3), bad hands, lowers, 3d render, cartoon, long body, ((blurry)), duplicate, ((duplicate body parts)), [wrong|anatomy], (disfigured), (poorly drawn), (extra limbs), fused fingers, extra fingers, (twisted), malformed hands, ((((mutated hands and fingers)))), contorted, conjoined, ((missing limbs)), logo, signature, text, words, low res, boring, mutated, artifacts, bad art, gross, ugly, poor quality, low quality, kid, missing asshole, (bad_prompt_version2:0.8)
+ENSD: 31337, Size: 768x768, Seed: 3791784255, Model: eXp_8, Steps: 32, hashes: [object Object], Sampler: Euler a, CFG scale: 6.5, Model hash: 28bb9b6d12, Hires upscale: 1.35, Hires upscaler: R-ESRGAN 4x+, Face restoration: CodeFormer, Denoising strength: 0.35
+
+![[Pasted image 20230410141144.png]]

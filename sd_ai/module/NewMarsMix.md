@@ -1,0 +1,6 @@
+module
+(best quality, masterpiece:1.4), realistic, detailed skin, pov, looking at viewer, (street, city:1.2), 1 girl, (korean mixed, kpop idol:1.2), pale skin, (slender body, skinny thighs:1.25), thigh gap, large breasts, (cleavage:1.2), (white offshoulder crop knit, very short shorts), navel
+Negative prompt: (worst quality:1.4), (low quality:1.4), (thick legs:1.3), (fat:1.2), (hairy pussy, abs, muscular, rib, wide hips:1.2), (ng_deepnegative_v1_75t:1.2), badhandv4, (teeth, open mouth, loli, 2 girls, multiple girls:1.2), (bokeh, blurry, censored:1.2), (greyscale, monochrome:1.0), cartoon, comic, multi view, text, title, logo, signature
+Size: 2048x2864, Seed: 1194254538, Model: NewMarsMix_R_1.1, Steps: 50, hashes: [object Object], Sampler: DPM++ SDE Karras, CFG scale: 25, Clip skip: 2, Mask blur: 4, Model hash: 50f6ae0426, Denoising strength: 0.3, MultiDiffusion overlap: 32, MultiDiffusion upscaler: ESRGAN_4x, MultiDiffusion tile width: 64, MultiDiffusion tile height: 64, MultiDiffusion scale factor: 2
+
+![[Pasted image 20230410162703.png]]
