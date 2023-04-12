@@ -1,0 +1,7 @@
+module
+
+
+Negative prompt: sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, bad anatomy, (long hair:1.4), DeepNegative, (fat:1.2), facing away, tilted head, {Multiple people}, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worstquality, low quality, normal quality, jpegartifacts, signature, watermark, username, blurry, bad feet, cropped, poorly drawn hands, poorly drawn face, mutation, deformed, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, extra fingers, fewer digits, extra limbs, extra arms,extra legs, malformed limbs, fused fingers, too many fingers, long neck, cross-eyed,mutated hands, polar lowres, bad body, bad proportions, gross proportions, text,error, missing fingers,missing arms, missing legs, extra digit, extra arms, extra leg, extra foot, EasyNegative, (earrings:1.6)
+ENSD: 31337, Size: 768x768, Seed: 2489368274, Steps: 25, Sampler: Euler a, CFG scale: 7, Mask blur: 4, Model hash: 4e704d22c3, AddNet Enabled: True, AddNet Model 1: koreanDollLikeness_v15(3c8b9d1e9b98), AddNet Model 2: lucyCyberpunk_35Epochs(28d922482dd5), AddNet Module 1: LoRA, AddNet Module 2: LoRA, AddNet Weight A 1: 0.3, AddNet Weight A 2: 0.5, AddNet Weight B 1: 0.3, AddNet Weight B 2: 0.5, Denoising strength: 0.32, SD upscale overlap: 64, SD upscale upscaler: ESRGAN_4x
+
+![[Pasted image 20230410141228.png]]
