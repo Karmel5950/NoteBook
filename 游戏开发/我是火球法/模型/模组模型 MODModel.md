@@ -1,0 +1,4 @@
+MOD ID
+MOD名称
+MOD描述
+MOD依赖
