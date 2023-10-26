@@ -7,11 +7,11 @@
 推荐  锐速内核
 
 **一、安装证书**
-
+Debian/Ubuntu:
 apt-get -y install ca-certificates
 
 或
-
+Centos:
 yum -y install ca-certificates
 
 **二、安装（三选一）**
