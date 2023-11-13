@@ -86,8 +86,8 @@ sheet['xfd1'].end('left').column
 sheet.used_range.last_cell.column        
 # 返回工作表中已经使用的单元格区域 
 sheet.api.UsedRange 或sheet.used_range  
-sheet.api.row('2:4').insert    # 插入行，在第2-4行插入空白行
-sheet.api.row('2:4').delete    # 删除行
+sheet.api.Rows('2:4').Insert()    # 插入行，在第2-4行插入空白行
+sheet.api.Rows('2:4').Delete()    # 删除行
 # 取值
 sheet.cells(行号,列号).value
 # 复制
